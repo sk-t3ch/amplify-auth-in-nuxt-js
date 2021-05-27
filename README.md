@@ -1,5 +1,5 @@
-# [T3chFlicks](https://t3chflicks.org): Three Smart Home Basics
-> A few short tutorials to help novices get started with smart home appliances and connecting to a voice controlled system.
+# [T3chFlicks](https://t3chflicks.org): Amplify Auth in Nuxt JS
+> Vue JS is a frontend framework often extended with Nuxt JS to get great SSO value out of the box. AWS Amplify allows you to add authentication to your Vue web app with ease as shown in a previous article. In this article, I demonstrate how to add Cognito authentication with Amplify to a Nuxt web app.
 ![thumbnail](./thumbnail.png)
 
 --- 
